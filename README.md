@@ -1,9 +1,9 @@
-# \[Group name\]
+# \[Data_daddies\]
 
 **Group members:**
-- A
-- B
-- C
+- Lukas Ohannes Bigun
+- Laura Garcia Perera
+- Marius
 
 This repository contains  
 1. Inaugural project. 
