@@ -13,6 +13,6 @@ We solve a household specialization model. In this model, the household maximize
 
 2. Data project.
 
-Our data project focuses on the study of the amount of waste produced in the different municipalities of the canton of Zürich, its price for the population and its evolution since 2000. The information to conduct our project is available from three different datasets: population, quantities, and prices. In this project we clean, prepare and merge the different datasets. Afterwards, we show graphically the average price paid per person per 35-l of non recycled trash disposed. A interative graph is also made to freely navigate within the information of the different municipalities in the canton of Zürich.
+Our project is titled **Waste in Zürich** and focuses on the study of the amount of waste produced in the different municipalities of the canton of Zürich, its price for the population and its evolution since 2000. The information to conduct our project is available from three different datasets: population, quantities, and prices. In this project we clean, prepare and merge the different datasets. We show that, on average, there is a clear downward trend in the non-recycled waste-per capita. We also show graphically the average price paid per person per 35-l of non recycled trash disposed. A interative graph is also made to freely navigate within the information of the different municipalities in the canton of Zürich.
 
 3. Model project.
